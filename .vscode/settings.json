@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Conexao com o banco de dados/src/lib/mysql-connector-j-26.7.0/mysql-connector-j-26.7.0.jar"
+    ]
+}
